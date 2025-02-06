@@ -141,6 +141,9 @@ Para criar componentes reutilizáveis e estilizados, siga os passos abaixo:
      );
    }
    ```
+## ✨ Preview
+
+[https://projeto-nextjs-zustand.vercel.app](https://projeto-nextjs-zustand.vercel.app)
 
 ## 📄 Licença
 
